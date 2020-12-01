@@ -19,19 +19,19 @@ This repository is for user made themes for [Super Productivity](https://github.
 
 1. Fork this repository
 2. Clone the forked repository to your computer
-3. Develop your theme under `src/yourthemename`, check out dracula.scss for example. You can see the stylable elements inside `src/dark-base`
-4. Keep command `gulp` running while developing your theme or if you prefer simply task compiling instead of watching files, run `gulp styles` after your changes
-5. When you are done, send a Pull Request and we'll add your theme if it's good!
+3. Run `npm install`
+4. Develop your theme under `src/yourthemename`, check out dracula.scss for example. You can see the stylable elements inside `src/dark-base`
+5. Keep command `gulp` running while developing your theme or if you prefer simply task compiling instead of watching files, run `gulp styles` after your changes
+6. When you are done, send a Pull Request and we'll add your theme if it's good!
 
 ## :globe_with_meridians: Testing themes
 
 Currently there is no live testing themes (yet) but you can test your themes under the official super-productivity repository by doing the following:
 
-1. Fork [super-productivity](https://github.com/johannesjo/super-productivity.git)
-2. `git clone <your-fork-git-url>`
-3. `cd super-productivity`
-4. `npm install`
-5. `npm install -g @angular/cli`
-6. `ng serve`
-7. Open a new Terminal window and run `npm start`
-8. Go to src/styles.scss and import your styles
+1. `git clone -branch styles-dev https://github.com/ronilaukkarinen/super-productivity.git`
+2. `cd super-productivity`
+3. `npm install`
+4. `npm install -g @angular/cli`
+5. `ng serve`
+6. Open a new Terminal window and run `npm start`
+7. Go to src/styles.scss and import your styles
