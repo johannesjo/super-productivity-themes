@@ -1,0 +1,31 @@
+{
+  "name": "super-productivity-themes",
+  "version": "1.0.0",
+  "description": "User made themes for Super Productivity <3",
+  "author": "Roni Laukkarinen",
+  "devDependencies": {
+    "@wulechuan/printer-for-errors-of-gulp-plugins": "^1.0.0",
+    "autoprefixer": "^10.0.1",
+    "browser-sync": "^2.26.12",
+    "gulp": "github:gulpjs/gulp#v4.0.0-alpha.3",
+    "gulp-clean-css": "4.3.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-util": "^3.0.8",
+    "postcss": "^8.1.1",
+    "stylelint": "^13.7.2",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-use-variable": "^1.7.2",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0",
+    "stylelint-value-no-unknown-custom-properties": "^3.0.0"
+  },
+  "dependencies": {
+    "npm-check-updates": "^9.0.3",
+    "npx": "^10.2.2"
+  }
+}
