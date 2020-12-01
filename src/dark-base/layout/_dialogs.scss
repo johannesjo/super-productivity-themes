@@ -1,0 +1,63 @@
+/* stylelint-disable selector-type-no-unknown, selector-max-class, selector-max-specificity, selector-max-combinators, selector-max-compound-selectors */
+
+body,
+body.isDarkTheme,
+body.isLightTheme,
+body.isDarkTheme.isDisableBackgroundGradient,
+body.isLightTheme.isDisableBackgroundGradient,
+body.isMac.isEnabledBackgroundGradient,
+body.isWeb.isEnabledBackgroundGradient,
+body.isEnabledBackgroundGradient,
+body.isDisableBackgroundGradient {
+  // Dialog items
+  .mat-stepper-horizontal,
+  .mat-stepper-vertical,
+  .mat-dialog-container,
+  .owl-dt-schedule-item:focus,
+  .owl-dt-schedule-item:hover,
+  .owl-dt-timer-content .owl-dt-timer-input,
+  .owl-dt-calendar-table .owl-dt-calendar-cell,
+  .owl-dt-calendar-table .owl-dt-calendar-header,
+  .owl-dt-timer-divider,
+  .owl-dt-control-period-button .owl-dt-control-button-arrow {
+    background-color: var(--color-background-setting-buttons);
+    color: var(--color-foreground);
+    border-color: var(--color-background-setting-buttons);
+    fill: var(--color-foreground);
+
+    &:focus,
+    &:hover {
+      color: var(--color-accent);
+      border-color: var(--color-accent);
+    }
+  }
+
+  // Current date in calendar
+  .owl-dt-calendar-table .owl-dt-calendar-cell-today:not(.owl-dt-calendar-cell-selected) {
+    // Override too specific styles
+    background-color: var(--color-background-setting-buttons) !important;
+  }
+
+  // Calendar items
+  .owl-dt-calendar-table .owl-dt-calendar-cell-disabled > .owl-dt-calendar-cell-content:not(.owl-dt-calendar-cell-selected) {
+    color: var(--color-disabled-dates);
+  }
+
+  // Time spent / Estimates
+  .circle .inner-circle {
+    background: var(--color-background-setting-buttons);
+  }
+
+  .value-wrapper,
+  .dots {
+    color: var(--color-foreground);
+
+    label {
+      color: var(--color-foreground);
+    }
+  }
+
+  .handle::after {
+    background: var(--color-accent);
+  }
+}

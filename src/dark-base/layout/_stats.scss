@@ -1,0 +1,55 @@
+/* stylelint-disable selector-type-no-unknown, selector-max-class, selector-max-specificity, selector-max-combinators, selector-max-compound-selectors */
+
+body,
+body.isDarkTheme,
+body.isLightTheme,
+body.isDarkTheme.isDisableBackgroundGradient,
+body.isLightTheme.isDisableBackgroundGradient,
+body.isMac.isEnabledBackgroundGradient,
+body.isWeb.isEnabledBackgroundGradient,
+body.isEnabledBackgroundGradient,
+body.isDisableBackgroundGradient {
+  // Project finished summaries
+  .mat-tab-label-content {
+    color: var(--color-foreground);
+  }
+
+  // Selected worklog metrics
+  .week table.week-table > tr.week-row:hover > td,
+  .week table.week-table > tr.week-row.isExpanded > td,
+  .week table.week-table > tbody > tr.week-row:hover > td,
+  .week table.week-table > tbody > tr.week-row.isExpanded > td {
+    // Override too specific styles
+    background-color: var(--color-inputs-focused) !important;
+  }
+
+  // Worklog specific
+  .month,
+  .year {
+    // Override too specific styles
+    border-color: var(--color-background-main) !important;
+  }
+
+  // Metrics tables
+  table.material-table,
+  div.material-table,
+  .mat-table {
+    background-color: var(--color-background-task);
+    box-shadow: none;
+
+    input:hover,
+    input:focus {
+      background-color: var(--color-background-task);
+      border-color: var(--color-accent);
+      color: var(--color-foreground);
+    }
+
+    th,
+    td,
+    tr,
+    * {
+      color: var(--color-foreground);
+      border-color: var(--color-border-panels);
+    }
+  }
+}

@@ -1,0 +1,33 @@
+/* stylelint-disable selector-type-no-unknown, selector-max-class, selector-max-specificity, selector-max-combinators, selector-max-compound-selectors */
+
+body,
+body.isDarkTheme,
+body.isLightTheme,
+body.isDarkTheme.isDisableBackgroundGradient,
+body.isLightTheme.isDisableBackgroundGradient,
+body.isMac.isEnabledBackgroundGradient,
+body.isWeb.isEnabledBackgroundGradient,
+body.isEnabledBackgroundGradient,
+body.isDisableBackgroundGradient {
+  // Top panel
+  .mat-flat-button,
+  .mat-fab,
+  .mat-raised-button,
+  .mat-mini-fab {
+    background-color: var(--color-background-setting-buttons);
+    color: var(--color-foreground);
+
+    &.mat-accent {
+      background-color: var(--color-accent);
+
+      .mat-icon-no-color {
+        color: var(--color-foreground);
+      }
+    }
+  }
+
+  // Current task title in top
+  .current-task-title {
+    background-color: var(--color-background-setting-buttons);
+  }
+}

@@ -36,7 +36,7 @@ module.exports = {
     }
   },
   styles: {
-    src: 'src/sass/**/*.scss',
+    src: 'src/**/*.scss',
     dest: 'dist',
     exclude: [],
     stylelint: {

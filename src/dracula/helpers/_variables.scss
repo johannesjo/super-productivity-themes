@@ -1,0 +1,33 @@
+// Vars
+:root {
+  // Dracula brand colors
+  --color-current: #44475a;
+  --color-background: #282a36;
+  --color-foreground: #f8f8f2;
+  --color-comment: #6272a4;
+  --color-cyan: #8be9fd;
+  --color-green: #50fa7b;
+  --color-orange: #ffb86c;
+  --color-pink: #ff79c6;
+  --color-purple: #bd93f9;
+  --color-red: #f55;
+  --color-yellow: #f1fa8c;
+
+  // Super productivity variables
+  --color-background-main: #282a36;
+  --color-background-sidebar: #232830;
+  --color-border-sidebar: #232830;
+  --color-border-divider-sidebar: #232830;
+  --color-background-panels: #22242e;
+  --color-border-panels: #232830;
+  --color-background-slide-toggle-bar-disabled: #444;
+  --color-background-setting-buttons: #313342;
+  --color-background-banner: #313342;
+  --color-background-task: #262935;
+  --color-tag-title: rgba(255, 255, 255, .6);
+  --color-large-toggle-panels: #22242e;
+  --color-large-toggle-panels-inputs: #22242e;
+  --color-disabled-dates: rgba(255, 255, 255, .4);
+  --color-accent: var(--color-purple);
+  --color-info-bar: var(--color-tag-title);
+}

@@ -1,0 +1,21 @@
+// Vars
+:root {
+  // Colors
+  --color-background: #eceff4;
+  --color-foreground: #3b4252;
+  --color-background-main: var(--color-background);
+  --color-background-sidebar: #d8dee9;
+  --color-border-sidebar: var(--color-background-sidebar);
+  --color-border-divider-sidebar: var(--color-background-sidebar);
+  --color-background-panels: #e5e9f0;
+  --color-border-panels: var(--color-background-sidebar);
+  --color-background-slide-toggle-bar-disabled: #bbb;
+  --color-background-setting-buttons: var(--color-background-panels);
+  --color-background-banner: var(--color-background-panels);
+  --color-background-task: var(--color-background-panels);
+  --color-tag-title: rgba(59, 66, 82, .6);
+  --color-large-toggle-panels: var(--color-background-panels);
+  --color-large-toggle-panels-inputs: var(--color-background-panels);
+  --color-disabled-dates: rgba(59, 66, 82, .4);
+  --color-accent: #2e3440;
+}

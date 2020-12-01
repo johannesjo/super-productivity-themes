@@ -16,7 +16,7 @@ const notify = require('gulp-notify');
 const mmq = require('gulp-merge-media-queries');
 
 function styles(done) {
-  return src(config.styles.main)
+  return src(config.styles.src)
     .pipe(sass(config.styles.opts.development))
 
     // Merge media queries
