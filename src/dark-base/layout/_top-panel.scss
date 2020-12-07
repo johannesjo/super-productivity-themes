@@ -19,9 +19,10 @@ body.isDisableBackgroundGradient {
 
     &.mat-accent {
       background-color: var(--color-accent);
+      color: var(--color-white);
 
       .mat-icon-no-color {
-        color: var(--color-foreground);
+        color: var(--color-white);
       }
     }
   }
