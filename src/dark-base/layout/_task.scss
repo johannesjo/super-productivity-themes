@@ -11,9 +11,11 @@ body.isWeb.isEnabledBackgroundGradient,
 body.isEnabledBackgroundGradient,
 body.isDisableBackgroundGradient {
   // Task
+  .gu-mirror .box,
+  .gu-mirror,
   .scheduled-task,
   .task-list-wrapper .box {
-    background-color: var(--color-background-task);
+    background-color: var(--color-background-task) !important;
 
     // Fix scheduled task panel
     .content {
