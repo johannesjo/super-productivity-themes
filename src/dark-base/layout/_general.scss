@@ -98,4 +98,17 @@ body.isDisableBackgroundGradient {
     color: var(--color-foreground);
     border-color: var(--color-border-panels);
   }
+
+  // Borders
+  .row,
+  .comment,
+  .info-bar,
+  .sub-tasks .box,
+  .attachment,
+  .project-title,
+  .page-settings .config-section .isExpanded .collapsible-header .issue-table pre table.material-table .isLightTheme &,
+  div.material-table .isLightTheme & {
+    // SCSS variable: $light-theme-extra-border-color
+    border-color: var(--color-background) !important;
+  }
 }
