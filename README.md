@@ -22,7 +22,7 @@ This repository is for user made themes for [Super Productivity](https://github.
 macOS oneliner:
 
 ```` bash
-wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/dracula/dracula.css && mv dracula.css styles.css && mv styles.css ~/Library/Application Support/superProductivity/
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/dracula/dracula.css && mv dracula.css styles.css && mv styles.css ~/Library/Application\ Support/superProductivity/
 ````
 
 <img src="https://i.imgur.com/obqJl3o.png" alt="Dracula">
@@ -32,7 +32,7 @@ wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main
 macOS oneliner:
 
 ```` bash
-wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-polar-night/nord-polar-night.css && mv nord-polar-night.css styles.css && mv styles.css ~/Library/Application Support/superProductivity/
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-polar-night/nord-polar-night.css && mv nord-polar-night.css styles.css && mv styles.css ~/Library/Application\ Support/superProductivity/
 ````
 
 <img src="https://i.imgur.com/vffv478.png" alt="Nord Polar Night">
@@ -42,7 +42,7 @@ wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main
 macOS oneliner:
 
 ```` bash
-wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-snow-storm/nord-snow-storm.css && mv nord-snow-storm.css styles.css && mv styles.css ~/Library/Application Support/superProductivity/
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-snow-storm/nord-snow-storm.css && mv nord-snow-storm.css styles.css && mv styles.css ~/Library/Application\ Support/superProductivity/
 ````
 
 <img src="https://i.imgur.com/AeJGdPy.png" alt="Nord Snow Storm">
@@ -52,7 +52,7 @@ wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main
 macOS oneliner: 
 
 ```` bash
-wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/arc/arc.css && mv arc.css styles.css && mv styles.css ~/Library/Application Support/superProductivity/
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/arc/arc.css && mv arc.css styles.css && mv styles.css ~/Library/Application\ Support/superProductivity/
 ````
 
 <img src="https://i.imgur.com/WUk8k5G.png" alt="Arc">
