@@ -93,7 +93,7 @@ You can test your themes under the official super-productivity repository by doi
 3. `npm install`
 4. `npm install -g @angular/cli`
 5. `ng serve`
-6. Open a new Terminal window and run `npm start`
+6. Open a new Terminal window, navigate to project with cd command and run `npm start`
 7. Go to src/styles.scss and import your styles
 8. Use Chrome with Developer Tools or open devtools in mac app by pressing F12
 9. Make your changes and commit them
