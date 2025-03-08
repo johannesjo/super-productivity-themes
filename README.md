@@ -34,8 +34,12 @@ macOS oneliner:
 ```` bash
 wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-polar-night/nord-polar-night.css && mv nord-polar-night.css styles.css && cp styles.css ~/Library/Application\ Support/superProductivity/ && rm styles.css
 ````
+Linux oneline:
+```bash
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/nord-polar-night/nord-polar-night.css && mv nord-polar-night.css styles.css && cp styles.css ~/.config/superProductivity/ && rm styles.css
+```
 
-<img src="https://i.imgur.com/vffv478.png" alt="Nord Polar Night">
+<img src="https://github.com/user-attachments/assets/f2a29748-9a13-4bd0-8714-2219e6c5ee05" alt="Nord Polar Night">
 
 ### Nord Snow Storm
 
