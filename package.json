@@ -6,7 +6,7 @@
   "devDependencies": {
     "@wulechuan/printer-for-errors-of-gulp-plugins": "^1.0.0",
     "autoprefixer": "^10.0.1",
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^3.0.3",
     "gulp": "github:gulpjs/gulp#v4.0.0-alpha.3",
     "gulp-clean-css": "4.3.0",
     "gulp-merge-media-queries": "^0.2.1",
