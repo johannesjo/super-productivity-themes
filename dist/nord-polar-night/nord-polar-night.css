@@ -648,91 +648,6 @@ div.material-table .isLightTheme body.isWeb.isEnabledBackgroundGradient {
   border-color: var(--color-background-task) !important;
 }
 
-body .mat-fab.mat-accent,
-body .mat-flat-button.mat-accent,
-body .mat-mini-fab.mat-accent,
-body .mat-raised-button.mat-accent,
-body.isDarkTheme .mat-fab.mat-accent,
-body.isDarkTheme .mat-flat-button.mat-accent,
-body.isDarkTheme .mat-mini-fab.mat-accent,
-body.isDarkTheme .mat-raised-button.mat-accent,
-body.isDarkTheme.isDisableBackgroundGradient .mat-fab.mat-accent,
-body.isDarkTheme.isDisableBackgroundGradient .mat-flat-button.mat-accent,
-body.isDarkTheme.isDisableBackgroundGradient .mat-mini-fab.mat-accent,
-body.isDarkTheme.isDisableBackgroundGradient .mat-raised-button.mat-accent,
-body.isDisableBackgroundGradient .mat-fab.mat-accent,
-body.isDisableBackgroundGradient .mat-flat-button.mat-accent,
-body.isDisableBackgroundGradient .mat-mini-fab.mat-accent,
-body.isDisableBackgroundGradient .mat-raised-button.mat-accent,
-body.isEnabledBackgroundGradient .mat-fab.mat-accent,
-body.isEnabledBackgroundGradient .mat-flat-button.mat-accent,
-body.isEnabledBackgroundGradient .mat-mini-fab.mat-accent,
-body.isEnabledBackgroundGradient .mat-raised-button.mat-accent,
-body.isLightTheme .mat-fab.mat-accent,
-body.isLightTheme .mat-flat-button.mat-accent,
-body.isLightTheme .mat-mini-fab.mat-accent,
-body.isLightTheme .mat-raised-button.mat-accent,
-body.isLightTheme.isDisableBackgroundGradient .mat-fab.mat-accent,
-body.isLightTheme.isDisableBackgroundGradient .mat-flat-button.mat-accent,
-body.isLightTheme.isDisableBackgroundGradient .mat-mini-fab.mat-accent,
-body.isLightTheme.isDisableBackgroundGradient .mat-raised-button.mat-accent,
-body.isMac.isEnabledBackgroundGradient .mat-fab.mat-accent,
-body.isMac.isEnabledBackgroundGradient .mat-flat-button.mat-accent,
-body.isMac.isEnabledBackgroundGradient .mat-mini-fab.mat-accent,
-body.isMac.isEnabledBackgroundGradient .mat-raised-button.mat-accent,
-body.isWeb.isEnabledBackgroundGradient .mat-fab.mat-accent,
-body.isWeb.isEnabledBackgroundGradient .mat-flat-button.mat-accent,
-body.isWeb.isEnabledBackgroundGradient .mat-mini-fab.mat-accent,
-body.isWeb.isEnabledBackgroundGradient .mat-raised-button.mat-accent {
-  background-color: var(--color-accent) !important;
-  color: var(--color-white) !important;
-}
-body .mat-fab.mat-accent .mat-icon-no-color,
-body .mat-flat-button.mat-accent .mat-icon-no-color,
-body .mat-mini-fab.mat-accent .mat-icon-no-color,
-body .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isDarkTheme .mat-fab.mat-accent .mat-icon-no-color,
-body.isDarkTheme .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isDarkTheme .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isDarkTheme .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isDarkTheme.isDisableBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isDarkTheme.isDisableBackgroundGradient
-  .mat-flat-button.mat-accent
-  .mat-icon-no-color,
-body.isDarkTheme.isDisableBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isDarkTheme.isDisableBackgroundGradient
-  .mat-raised-button.mat-accent
-  .mat-icon-no-color,
-body.isDisableBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isDisableBackgroundGradient .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isDisableBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isDisableBackgroundGradient .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isEnabledBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isEnabledBackgroundGradient .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isEnabledBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isEnabledBackgroundGradient .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isLightTheme .mat-fab.mat-accent .mat-icon-no-color,
-body.isLightTheme .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isLightTheme .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isLightTheme .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isLightTheme.isDisableBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isLightTheme.isDisableBackgroundGradient
-  .mat-flat-button.mat-accent
-  .mat-icon-no-color,
-body.isLightTheme.isDisableBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isLightTheme.isDisableBackgroundGradient
-  .mat-raised-button.mat-accent
-  .mat-icon-no-color,
-body.isMac.isEnabledBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isMac.isEnabledBackgroundGradient .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isMac.isEnabledBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isMac.isEnabledBackgroundGradient .mat-raised-button.mat-accent .mat-icon-no-color,
-body.isWeb.isEnabledBackgroundGradient .mat-fab.mat-accent .mat-icon-no-color,
-body.isWeb.isEnabledBackgroundGradient .mat-flat-button.mat-accent .mat-icon-no-color,
-body.isWeb.isEnabledBackgroundGradient .mat-mini-fab.mat-accent .mat-icon-no-color,
-body.isWeb.isEnabledBackgroundGradient .mat-raised-button.mat-accent .mat-icon-no-color {
-  color: var(--color-white) !important;
-}
 body .current-task-title,
 body.isDarkTheme .current-task-title,
 body.isDarkTheme.isDisableBackgroundGradient .current-task-title,
@@ -1053,27 +968,7 @@ body.isWeb.isEnabledBackgroundGradient .title-and-tags-wrapper:focus::after {
   border-color: var(--color-large-toggle-panels-inputs) !important;
   /*box-shadow: none;*/
 }
-body .drag-handle,
-body .mat-card,
-body.isDarkTheme .drag-handle,
-body.isDarkTheme .mat-card,
-body.isDarkTheme.isDisableBackgroundGradient .drag-handle,
-body.isDarkTheme.isDisableBackgroundGradient .mat-card,
-body.isDisableBackgroundGradient .drag-handle,
-body.isDisableBackgroundGradient .mat-card,
-body.isEnabledBackgroundGradient .drag-handle,
-body.isEnabledBackgroundGradient .mat-card,
-body.isLightTheme .drag-handle,
-body.isLightTheme .mat-card,
-body.isLightTheme.isDisableBackgroundGradient .drag-handle,
-body.isLightTheme.isDisableBackgroundGradient .mat-card,
-body.isMac.isEnabledBackgroundGradient .drag-handle,
-body.isMac.isEnabledBackgroundGradient .mat-card,
-body.isWeb.isEnabledBackgroundGradient .drag-handle,
-body.isWeb.isEnabledBackgroundGradient .mat-card {
-  background-color: var(--color-background-task) !important;
-  color: var(--color-foreground) !important;
-}
+
 body .drag-handle::after,
 body.isDarkTheme .drag-handle::after,
 body.isDarkTheme.isDisableBackgroundGradient .drag-handle::after,
@@ -2678,9 +2573,7 @@ body.isWeb.isEnabledBackgroundGradient table.material-table tr {
   color: var(--color-foreground) !important;
   border-color: var(--color-border-panels) !important;
 }
-
 /*NOTE: Custom CSS improvements*/
-
 body .first-line:hover .hover-controls::before,
 body.isDarkTheme .first-line:hover .hover-controls::before,
 body.isDarkTheme.isDisableBackgroundGradient .first-line:hover .hover-controls::before,
@@ -2769,7 +2662,6 @@ body.isWeb.isEnabledBackgroundGradient
   background: 0 0 !important;
   background: var(--color-background-task) !important;
 }
-
 /*today tasks background*/
 body .gu-mirror,
 body .gu-mirror .box,
@@ -2901,7 +2793,6 @@ body.isWeb.isEnabledBackgroundGradient.isCurrent.isCurrent.isCurrent.isCurrent
   /*background: var(--color-accent) !important;*/
   border-color: var(--color-accent) !important;
 }
-
 /*Text field on the panels*/
 body .mdc-text-field--filled:not(.mdc-text-field--disabled),
 body.isDarkTheme .mdc-text-field--filled:not(.mdc-text-field--disabled),
@@ -2918,7 +2809,6 @@ body.isWeb.isEnabledBackgroundGradient
   .mdc-text-field--filled:not(.mdc-text-field--disabled) {
   background-color: var(--color-background-text-field) !important;
 }
-
 /*Panel colors -e.g repating or url adding panels */
 body .mat-mdc-select-panel,
 body .mat-mdc-menu-panel,
@@ -2932,7 +2822,6 @@ body.isMac.isEnabledBackgroundGradient .mat-mdc-select-panel,
 body.isWeb.isEnabledBackgroundGradient .mat-mdc-select-panel {
   background-color: var(--color-background-color-options);
 }
-
 /*Stopwatch colors*/
 body .pulse-circle,
 body.isDarkTheme .pulse-circle,
@@ -2945,7 +2834,6 @@ body.isMac.isEnabledBackgroundGradient .pulse-circle,
 body.isWeb.isEnabledBackgroundGradient .pulse-circle {
   background: var(--color-background-button-shadow) !important;
 }
-
 body .mat-mdc-mini-fab,
 body.isDarkTheme .mat-mdc-mini-fab,
 body.isDarkTheme.isDisableBackgroundGradient .mat-mdc-mini-fab,
@@ -2973,7 +2861,6 @@ body.isWeb.isEnabledBackgroundGradient
   .toggle-notes-btn.isActive.isRouteWithRightPanel::after {
   background: var(--color-background-setting-buttons) !important;
 }
-
 /*note transparent background to make it like shadow*/
 body .content,
 body.isDarkTheme .content,
@@ -2986,7 +2873,6 @@ body.isMac.isEnabledBackgroundGradient .content,
 body.isWeb.isEnabledBackgroundGradient .content {
   background: #3e475700 !important;
 }
-
 /*Calendar colors*/
 body .RepeatProjection,
 body.isDarkTheme .RepeatProjection,
@@ -3016,15 +2902,11 @@ body.isMac.isEnabledBackgroundGradient .ScheduledRepeatProjection,
 body.isWeb.isEnabledBackgroundGradient .ScheduledRepeatProjection {
   background-color: var(--color-background-planner-task) !important;
 }
-
 /*Github links*/
 a[href] {
   color: var(--color-accent) !important;
 }
-
 /*Note colors*/
-/*classes: note ng-star-inserted*/
-/*but uses div*/
 body .note,
 body.isDarkTheme .note body.isDarkTheme.isDisableBackgroundGradient .note,
 body.isDisableBackgroundGradient .note,
@@ -3059,7 +2941,6 @@ body.isLightTheme.isDisableBackgroundGradient .content-wrapper,
 body.isMac.isEnabledBackgroundGradient .content-wrapper {
   background-color: var(--color-background-task) !important;
 }
-
 /*div.mat-mdc-autocomplete-panel*/
 body .mat-mdc-autocomplete-panel,
 body.isDarkTheme .mat-mdc-autocomplete-panel,
@@ -3254,7 +3135,19 @@ body.isMac.isEnabledBackgroundGradient .summary-table,
 body.isWeb.isEnabledBackgroundGradient .summary-table {
   background-color: var(--color-background-task) !important;
 }
-
+/*planner, calendar tasks background-color*/
+body .mat-card,
+body.isDarkTheme .mat-card,
+body.isDarkTheme.isDisableBackgroundGradient .mat-card,
+body.isDisableBackgroundGradient .mat-card,
+body.isEnabledBackgroundGradient .mat-card,
+body.isLightTheme .mat-card,
+body.isLightTheme.isDisableBackgroundGradient .mat-card,
+body.isMac.isEnabledBackgroundGradient .mat-card,
+body.isWeb.isEnabledBackgroundGradient .mat-card {
+  background: var(--color-background-task) !important;
+  color: var(--color-foreground) !important;
+}
 /*HACK: override this because one of the .scss use !important*/
 @layer overrides {
   /*tasks drag color states*/
@@ -3269,7 +3162,6 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
   body.isWeb.isEnabledBackgroundGradient .box {
     background: var(--color-background-task) !important;
   }
-
   /*Task details panel*/
   body .task-title-wrapper,
   body.isDarkTheme .task-title-wrapper,
@@ -3282,7 +3174,6 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
   body.isWeb.isEnabledBackgroundGradient .task-title-wrapper {
     background: var(--color-background-sidebar) !important;
   }
-
   body .dialog-task-detail-panel.mat-mdc-dialog-component-host.ng-star-inserted,
   body.isDarkTheme
     .dialog-task-detail-panel.mat-mdc-dialog-component-host.ng-star-inserted,
@@ -3302,7 +3193,6 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
     .dialog-task-detail-panel.mat-mdc-dialog-component-host.ng-star-inserted {
     background: var(--color-background-task) !important;
   }
-
   body .mat-dialog-content,
   body .mdc-dialog__content,
   body .mat-mdc-dialog-content,
@@ -3334,44 +3224,12 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
     background: var(--color-background-task) !important;
     border: 2px solid var(--color-background-sidebar) !important;
   }
-
-  /*Planner tasks*/
+  /*planner, calendar, kanban tasks background-color*/
   body .cdk-drag,
-  body
-    .planner-task
-    body
-    .normal-tasks-items
-    body
-    .cdk-drop-list
-    body.isDarkTheme
-    .cdk-drag,
-  body.isDarkTheme
-    .cdk-drop-list
-    body.isDarkTheme
-    .normal-tasks-items
-    body.isDarkTheme
-    .planner-task,
+  body.isDarkTheme .cdk-drag,
   body.isDarkTheme.isDisableBackgroundGradient .cdk-drag,
-  body.isDarkTheme.isDisableBackgroundGradient
-    .cdk-drop-list
-    body.isDarkTheme.isDisableBackgroundGradient
-    .normal-tasks-items
-    body.isDarkTheme.isDisableBackgroundGradient
-    .planner-task,
   body.isDisableBackgroundGradient .cdk-drag,
-  body.isDisableBackgroundGradient
-    .cdk-drop-list
-    body.isDisableBackgroundGradient
-    .normal-tasks-items
-    body.isDisableBackgroundGradient
-    .planner-task,
   body.isEnabledBackgroundGradient .cdk-drag,
-  body.isEnabledBackgroundGradient
-    .cdk-drop-list
-    body.isEnabledBackgroundGradient
-    .normal-tasks-items
-    body.isEnabledBackgroundGradient
-    .planner-task,
   body.isLightTheme .cdk-drag,
   body.isLightTheme.isDisableBackgroundGradient .cdk-drag,
   body.isMac.isEnabledBackgroundGradient .cdk-drag,
@@ -3379,8 +3237,6 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
     background: var(--color-background-task) !important;
   }
   /*TODO: checkbox background color*/
-  /*.mdc-checkbox__native-control:enabled:checked~.mdc-checkbox__background, .mdc-checkbox__native-control:enabled:indeterminate~.mdc-checkbox__background*/
-  /*.mdc-checkbox .mdc-checkbox__native-control:focus:checked~.mdc-checkbox__ripple*/
   body .mdc-checkbox__background,
   body.isDarkTheme .mdc-checkbox__background,
   body.isDarkTheme.isDisableBackgroundGradient .mdc-checkbox__background,
@@ -3408,5 +3264,34 @@ body.isWeb.isEnabledBackgroundGradient .summary-table {
   body.isWeb.isEnabledBackgroundGradient .mat-checkbox-checked .mat-checkbox-background {
     background-color: var(--color-accent) !important;
     border-color: var(--color-accent) !important;
+  }
+  /*repeat task config background color*/
+  body .repeat-task-cfg,
+  body.isDarkTheme .repeat-task-cfg,
+  body.isDarkTheme.isDisableBackgroundGradient .repeat-task-cfg,
+  body.isDisableBackgroundGradient .repeat-task-cfg,
+  body.isEnabledBackgroundGradient .repeat-task-cfg,
+  body.isLightTheme .repeat-task-cfg,
+  body.isLightTheme.isDisableBackgroundGradient .repeat-task-cfg,
+  body.isMac.isEnabledBackgroundGradient .repeat-task-cfg,
+  body.isWeb.isEnabledBackgroundGradient .repeat-task-cfg {
+    background-color: var(--color-background-task) !important;
+  }
+  .isDarkTheme * {
+    /*color: var(--color-foreground) !important;*/
+    --scrollbar-color-thumb: var(--color-background-task) !important;
+    /*background: var(--color-background-sidebar) !important;*/
+  }
+  /*procrastination panels */
+  body .tab-inner,
+  body.isDarkTheme .tab-inner,
+  body.isDarkTheme.isDisableBackgroundGradient .tab-inner,
+  body.isDisableBackgroundGradient .tab-inner,
+  body.isEnabledBackgroundGradient .tab-inner,
+  body.isLightTheme .tab-inner,
+  body.isLightTheme.isDisableBackgroundGradient .tab-inner,
+  body.isMac.isEnabledBackgroundGradient .tab-inner,
+  body.isWeb.isEnabledBackgroundGradient .tab-inner {
+    background-color: var(--color-background-task) !important;
   }
 }
