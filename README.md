@@ -61,6 +61,15 @@ wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main
 
 <img src="https://i.imgur.com/WUk8k5G.png" alt="Arc">
 
+### Catppuccin Mocha
+
+Linux oneliner:
+````bash
+wget https://raw.githubusercontent.com/johannesjo/super-productivity-themes/main/dist/catppuccin-mocha/catppuccin-mocha.css && mv catppuccin-mocha.css styles.css && cp styles.css ~/.config/superProductivity/ && rm styles.css
+````
+
+<img src="https://i.postimg.cc/gkwGffQX/catppuccin-mocha-super-prod.png" alt="Catppuccin Mocha">
+
 ## :question: How to add your theme
 
 1. Fork this repository
